@@ -1,10 +1,10 @@
 {
-  "version": "1.1",
+  "version": "1.3",
   "notes": {
-    "zh": "v1.1 修复收款码保存/展示异常：旧数据兼容、图片压缩更稳、保存失败有明确提示。",
-    "en": "v1.1 Fixed payment QR save/display issues: legacy data compat, better image compression, clear save feedback.",
-    "my": "v1.1 ငွေကောက်ကုဒ် သိမ်းဆည်းမှု/ပြသမှု အမှားများ ပြင်ဆင်ပြီး။"
+    "zh": "v1.3 更新检查更稳定：支持 GitHub 固定地址、超时保护，手机网络慢也不卡死。",
+    "en": "v1.3 More stable update check: GitHub Pages support with timeout guard.",
+    "my": "v1.3 Update စစ်ဆေးမှု ပိုမိုတည်ငြိမ်- GitHub Pages ပံ့ပိုးမှု၊ timeout ကာကွယ်မှုပါ။"
   },
   "apkUrl": "accounting-tools-electronics-{device}-v1.0.apk",
-  "versionCode": 11
+  "versionCode": 13
 }
