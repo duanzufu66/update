@@ -1,10 +1,10 @@
 {
- "version": "1.0",
- "notes": {
-  "zh": "电子产品版 v1.0：专为手机/平板/笔记本/耳机/手表/配件/充电宝店铺打造，全新科技界面，支持 IMEI/条形码/内存、实时扫码、多机同步、三语",
-  "en": "Electronics Edition v1.0: built for phone/tablet/laptop/earphone/watch/accessory/power bank shops, new tech UI, IMEI/barcode/storage, scan, sync, trilingual",
-  "my": "အီလက်ထရွန်းနစ်ဗားရှင်း v1.0 - ဖုန်း/တက်ဘလက်/လက်ပ်တော့/နားကြပ်/နာရီ/အသုံးအဆောင်/ပါဝါဘဏ်ဆိုင်များအတွက်"
- },
- "apkUrl": "accounting-tools-electronics-{device}-v1.0.apk",
- "versionCode": 1
+  "version": "1.1",
+  "notes": {
+    "zh": "v1.1 修复收款码保存/展示异常：旧数据兼容、图片压缩更稳、保存失败有明确提示。",
+    "en": "v1.1 Fixed payment QR save/display issues: legacy data compat, better image compression, clear save feedback.",
+    "my": "v1.1 ငွေကောက်ကုဒ် သိမ်းဆည်းမှု/ပြသမှု အမှားများ ပြင်ဆင်ပြီး။"
+  },
+  "apkUrl": "accounting-tools-electronics-{device}-v1.0.apk",
+  "versionCode": 11
 }
