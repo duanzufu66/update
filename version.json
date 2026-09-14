@@ -1,10 +1,10 @@
 {
- "version": "1.0",
- "notes": {
-  "zh": "电子产品版 v1.0：专为手机/平板/笔记本/耳机/手表/配件/充电宝店铺打造，全新科技界面，支持 IMEI/条形码/内存、实时扫码、多机同步、三语",
-  "en": "Electronics Edition v1.0: built for phone/tablet/laptop/earphone/watch/accessory/power bank shops, new tech UI, IMEI/barcode/storage, scan, sync, trilingual",
-  "my": "အီလက်ထရွန်းနစ်ဗားရှင်း v1.0 - ဖုန်း/တက်ဘလက်/လက်ပ်တော့/နားကြပ်/နာရီ/အသုံးအဆောင်/ပါဝါဘဏ်ဆိုင်များအတွက်"
- },
- "apkUrl": "accounting-tools-electronics-{device}-v1.0.apk",
- "versionCode": 1
+  "version": "1.41",
+  "notes": {
+    "zh": "v1.41 新增：夜间模式（我的→外观）、旧机回收（记一笔→旧机回收，含成色）、批发/零售双价（库存加批发价，销售可选）、收款码展示（我的→收款码）、异地更新（可填公网地址）。修复扫码、库存、小屏显示等多项问题。",
+    "en": "v1.41 New: dark mode (Mine>Appearance), trade-in (Record>Trade-in with condition), wholesale/retail pricing (wholesale price in stock, selectable when selling), payment QR codes (Mine>QR), remote updates (public URL supported). Many scanner/stock/UI fixes.",
+    "my": "v1.41 အသစ်- အမှောင်မုဒ် (ကျွန်ုပ်>အသွင်အပြင်)၊ ဟောင်းစက်ပြန်လည် (မှတ်တမ်း>ဟောင်းစက်ပြန်လည်၊ အရည်အတန်းပါ)၊ လက်ကား/လက်လီဈေးနှုန်း၊ ငွေကောက် QR ပြသမှု၊ အဝေးထိန်း Update။ စကင်န်/စတော့/မျက်နှာပြင် အမှားများစွာ ပြင်ဆင်ပြီး။"
+  },
+  "apkUrl": "accounting-tools-{device}-v1.41.apk",
+  "versionCode": 141
 }
